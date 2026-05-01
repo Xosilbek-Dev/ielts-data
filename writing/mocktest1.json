@@ -1,0 +1,14 @@
+{
+  "id": "writing_mocktest1",
+  "title": "Cambridge IELTS 20 — Writing Test 1",
+  "password": "WRITE1",
+  "duration_minutes": 65,
+  "task1": {
+    "prompt": "The diagram below shows the process of manufacturing chocolate. Summarise the information by selecting and reporting the main features, and make comparisons where relevant.\n\nWrite at least 150 words.",
+    "image": null,
+    "image_description": "A flow diagram illustrating the stages of chocolate production, from cocoa bean harvesting through fermentation, drying, roasting, grinding, and final packaging."
+  },
+  "task2": {
+    "prompt": "Some people believe that it is best to accept a bad situation, such as an unsatisfactory job or shortage of money. Others argue that it is better to try to improve such situations.\n\nDiscuss both views and give your own opinion.\n\nWrite at least 250 words."
+  }
+}

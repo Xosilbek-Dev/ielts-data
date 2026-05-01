@@ -1,0 +1,197 @@
+{
+  "id": "reading_mocktest1",
+  "title": "Cambridge IELTS 20 — Academic Reading Test 1",
+  "password": "CAM20T1",
+  "duration_minutes": 65,
+  "total_questions": 40,
+  "passages": [
+    {
+      "id": "passage1",
+      "number": 1,
+      "title": "The Kākāpō",
+      "text": "The kākāpō (Strigops habroptilus) is a large, flightless parrot native to New Zealand. It is the world's heaviest parrot, and the only flightless and nocturnal parrot. Once widespread throughout New Zealand, the kākāpō suffered severe decline due to introduced predators and habitat loss. Today it is critically endangered, with fewer than 250 individuals remaining, all of which are under intensive management.\n\nThe kākāpō has several unusual characteristics. It is entirely vegetarian, with its diet including the leaves, roots and bark of trees as well as bulbs, and fern fronds. It breeds only every two to five years — usually in years when certain fruit-bearing trees produce an abundant crop. The 1–4 eggs are laid in soil, which is repeatedly turned over before and during incubation.\n\nPolynesian settlers arrived in New Zealand around 1300 AD and brought with them the Polynesian rat, or kiore, which competed with the kākāpō for food. Settlers also hunted the kākāpō for meat and used its feathers to make cloaks. When European settlers arrived in the 19th century, they brought cats, dogs, stoats, and other predators that devastated the kākāpō population.\n\nA survey in 1977 revealed that male kākāpō remained on Fiordland's Stewart Island, known in Māori as Rakiura. Females had not been seen for years, leading conservationists to fear the species was doomed. Then in 1980, a population including females was discovered on Rakiura. This led to the creation of a Recovery Plan — a comprehensive conservation strategy focused on transferring kākāpō to predator-free islands.\n\nThe Recovery Plan has required a huge increase in funding and the involvement of stakeholders from Māori communities, government agencies, and conservation organisations. Males are fitted with radio transmitters so that their movements can be tracked. Females nest alone — male kākāpō play no role in raising the young. Eggs and chicks are closely monitored.\n\nToday, the kākāpō population is slowly increasing. The species illustrates both the vulnerability of island species to introduced threats and the possibilities of dedicated conservation effort.",
+      "question_groups": [
+        {
+          "type": "True_False_Not_Given",
+          "instructions": "Do the following statements agree with the information given in the Reading Passage? Write TRUE if the statement agrees with the information, FALSE if the statement contradicts the information, NOT GIVEN if there is no information on this.",
+          "questions": [
+            { "number": 1, "text": "The kākāpō is the only species of parrot in the world that cannot fly." },
+            { "number": 2, "text": "Adult kākāpō produce chicks every year." },
+            { "number": 3, "text": "Adult male kākāpō bring food back to nesting females." },
+            { "number": 4, "text": "The Polynesian rat was a greater threat to the kākāpō than Polynesian settlers." },
+            { "number": 5, "text": "Female kākāpō were present on Stewart Island (Rakiura) in 1980." },
+            { "number": 6, "text": "The Recovery Plan involved moving kākāpō to islands without predators." }
+          ]
+        },
+        {
+          "type": "Note_Completion",
+          "instructions": "Complete the notes below. Choose ONE WORD AND/OR A NUMBER from the passage for each answer.",
+          "title": "Notes on the Kākāpō",
+          "note_text": "Diet: includes fern fronds, leaves/roots/bark of trees, and ___7___\n\nNesting: eggs laid in ___8___\n\nMāori use: ___9___ of the kākāpō were used to make clothes\n\nIntroduced competitor: kiore (Polynesian rat) ate the kākāpō's food sources\n\nYear of female sighting on Rakiura: ___11___\n\nRecovery Plan required increase in: ___12___\n\nRecovery Plan: males tracked using radio ___13___",
+          "questions": [
+            { "number": 7, "text": "Diet item (one word)" },
+            { "number": 8, "text": "Where eggs are laid" },
+            { "number": 9, "text": "Part of kākāpō used for clothing" },
+            { "number": 10, "text": "What Polynesian rat competed for" },
+            { "number": 11, "text": "Year females found on Rakiura" },
+            { "number": 12, "text": "What Recovery Plan required more of" },
+            { "number": 13, "text": "Device used to track males" }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "passage2",
+      "number": 2,
+      "title": "To Britain",
+      "subtitle": "How Dutch elm disease devastated Britain's elm trees — and what is being done to bring them back",
+      "text": "A. The elm was once one of the most characteristic trees of the English countryside, lining fields and country lanes. Reaching heights of over 30 metres, it was the second most common hedgerow tree after the oak. 'You look at old photographs from the 1960s and it's only then that you realise the impact [elms had] on the landscape,' says Matt Elliot of the Woodland Trust. Then Dutch elm disease struck.\n\nB. Dutch elm disease is caused by a fungus spread by bark beetles. A first epidemic reached Britain in the 1920s, killing around 10–40% of elm trees. Many trees recovered, however, as the strain of fungus was relatively mild. A second epidemic was triggered by shipments of elm from Canada in the late 1960s. This time, logs destined for boat building brought a far more aggressive strain of fungus. The disease swept across Britain in the 1970s, eventually killing around 25 million trees — approximately 90% of the UK's elm population.\n\nC. Today, elms still exist in the southern English countryside but mostly only in low hedgerows between fields. 'We have millions of small elms in hedgerows but they get targeted by the beetle as soon as they reach a certain size,' says Karen Russell, co-author of the report Where we are with elm. Once the trunk of the elm reaches 10–15 centimetres or so in diameter, it becomes a perfect size for beetles to lay eggs and for the fungus to take hold. Yet mature specimens have been identified, in counties such as Cambridgeshire, that are hundreds of years old, and have mysteriously escaped the epidemic. The key, Russell says, is to identify and study those trees that have survived and work out why they stood tall when millions of others succumbed. Nevertheless, opportunities are limited as the number of these mature survivors is relatively small.\n\nD. The elm's historical importance to British culture is considerable. For hundreds of years, elm ran a close second to oak in terms of usefulness. In the 18th century, large quantities of elm were harvested for timber — used for items such as storage crates and flooring. Elm's natural resistance to water made it ideal for use in water pipes, the bases of boats, and dock structures. It was also used to build the keel of the 19th-century sailing ship Cutty Sark, and coffins were traditionally made from elm.\n\nE. Brighton, in the south of England, is home to what is thought to be the largest collection of mature elms in the world outside continental Europe — around 20,000 trees, some of which are more than 400 years old. The trees have survived thanks partly to strong winds from the sea which make it difficult for beetles to fly in from surrounding areas. 'The beetles can just march in if we're not careful, as the threat is right on our doorstep,' warns Peter Bourne of Brighton and Hove City Council, which employs a team to monitor and protect the trees.\n\nF. In an attempt to bring back elms, researchers have been working to develop disease-resistant strains through selective breeding. Karen Russell's team grafts branches from surviving mature trees and tests the resulting specimens for disease resistance. 'You inoculate the tree with fungus, you return in four to six weeks, and those that are susceptible show leaf loss and may even have died,' she explains.\n\nG. All of this raises questions of social acceptance, acknowledges Russell. 'If we're putting elm back into the landscape, a small element of it is not native — are we bothered about that?' For her, the environmental case for reintroducing elm is strong: 'They will host wildlife, which is a good thing.' Others are more wary. 'On the face of it, it seems like a good idea,' says Elliot. The problem, he suggests, is that 'You're replacing a native species with a horticultural analogue. You're effectively cloning.' There's also the risk of introducing new diseases. Rather than plant new elms, the Woodland Trust emphasises providing space to those elms that have survived independently. 'Sometimes the best thing you can do is just give nature time to recover — over time, you might get resistance,' says Elliot.",
+      "question_groups": [
+        {
+          "type": "Matching_Information",
+          "instructions": "The Reading Passage has seven paragraphs, A–G. Which paragraph contains the following information? Write the correct letter, A–G.",
+          "note": "You may use any letter more than once.",
+          "options": [
+            { "label": "A" }, { "label": "B" }, { "label": "C" },
+            { "label": "D" }, { "label": "E" }, { "label": "F" }, { "label": "G" }
+          ],
+          "questions": [
+            { "number": 14, "text": "reference to the research problems that arise from there being only a few surviving large elms" },
+            { "number": 15, "text": "details of a difference of opinion about the value of reintroducing elms to Britain" },
+            { "number": 16, "text": "reference to how Dutch elm disease was brought into Britain" },
+            { "number": 17, "text": "a description of the conditions that have enabled a location in Britain to escape Dutch elm disease" },
+            { "number": 18, "text": "reference to the stage at which young elms become vulnerable to Dutch elm disease" }
+          ]
+        },
+        {
+          "type": "Matching_Features",
+          "instructions": "Look at the following statements (Questions 19–23) and the list of people below. Match each statement with the correct person, A, B or C.",
+          "note": "You may use any letter more than once.",
+          "options": [
+            { "label": "A", "name": "Matt Elliot" },
+            { "label": "B", "name": "Karen Russell" },
+            { "label": "C", "name": "Peter Bourne" }
+          ],
+          "questions": [
+            { "number": 19, "text": "If a tree gets infected with Dutch elm disease, the damage rapidly becomes visible." },
+            { "number": 20, "text": "It may be better to wait and see if the mature elms that have survived continue to flourish." },
+            { "number": 21, "text": "There must be an explanation for the survival of some mature elms." },
+            { "number": 22, "text": "You need to be aware that insects carrying Dutch elm disease are not very far away." },
+            { "number": 23, "text": "You understand the effect Dutch elm disease has had when you see evidence of how prominent the tree once was." }
+          ]
+        },
+        {
+          "type": "Summary_Completion",
+          "instructions": "Complete the summary below. Choose ONE WORD ONLY from the passage for each answer.",
+          "title": "The historical importance of elm",
+          "summary_text": "For hundreds of years, the only tree that was more popular in Britain than elm was ___24___. In the 18th century, it was grown to provide wood for boxes and ___25___. The elm's ability to resist water meant that it was suitable for a variety of uses, including in the construction of ships. The Cutty Sark's ___26___ was also constructed from elm.",
+          "questions": [
+            { "number": 24, "text": "Most popular tree" },
+            { "number": 25, "text": "What elm timber was used for" },
+            { "number": 26, "text": "Ship part made from elm" }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "passage3",
+      "number": 3,
+      "title": "The Intersection of Health Sciences and Geography",
+      "text": "A. The discipline of health geography emerged at the interface of medical geography and the social sciences. It examines the relationship between health, place, and space. Researchers in health geography use both quantitative and qualitative methods, and the field has grown considerably since the 1990s.\n\nB. One of the central concerns of health geography is the spatial distribution of disease. The classic example is John Snow's mapping of cholera cases in London in 1854, which identified a contaminated water pump as the source of an outbreak — a method that predates the formal discipline by over a century. Today, Geographic Information Systems (GIS) allow researchers to map and analyse health data with remarkable precision.\n\nC. Health geographers also study the ways in which the built and natural environment affect health outcomes. Research has demonstrated that proximity to green spaces is associated with reduced stress, improved mental health, and lower levels of obesity. Conversely, people living in areas with high levels of air pollution, or with limited access to healthy food ('food deserts'), tend to experience poorer health outcomes.\n\nD. The relationship between socioeconomic status and health has long been recognised. Poor communities tend to have lower life expectancy and higher rates of chronic disease. Health geographers argue that place matters — that where you live has a direct effect on how long and how well you live, independent of individual behaviour. This perspective challenges views that attribute health inequalities solely to lifestyle choices.\n\nE. Another area of interest is healthcare accessibility. In many countries, particularly low- and middle-income ones, healthcare facilities are concentrated in urban areas, leaving rural populations underserved. Health geographers map these 'healthcare deserts' and analyse the barriers — whether physical distance, lack of transportation, or cultural factors — that prevent people from accessing care.\n\nF. Global health geography is increasingly concerned with the geography of pandemics. The rapid spread of COVID-19 demonstrated how interconnected the modern world is, and how quickly disease can cross borders. Researchers mapped the spread of the virus in real time, identifying hotspots and tracking transmission patterns. The field of disease ecology examines how environmental factors, including climate change, influence the emergence and spread of new pathogens.\n\nG. Looking ahead, health geography faces new challenges. Climate change is expected to alter the distribution of vector-borne diseases such as malaria and dengue fever, potentially exposing new populations to risk. Meanwhile, the growth of megacities in the developing world creates new challenges for sanitation, housing, and healthcare provision. Health geographers are well-placed to contribute to policy responses to these global challenges.",
+      "question_groups": [
+        {
+          "type": "Matching_Headings",
+          "instructions": "The Reading Passage has seven paragraphs, A–G. Choose the correct heading for each paragraph from the list of headings below. Write the correct number, i–viii.",
+          "headings": [
+            { "label": "i", "text": "The unequal spread of medical facilities" },
+            { "label": "ii", "text": "The impact of surroundings on wellbeing" },
+            { "label": "iii", "text": "Predicting how illness will spread in future" },
+            { "label": "iv", "text": "The origins and scope of health geography" },
+            { "label": "v", "text": "Tracking illness patterns using technology" },
+            { "label": "vi", "text": "The link between wealth, location, and health" },
+            { "label": "vii", "text": "How outbreaks cross international boundaries" },
+            { "label": "viii", "text": "A pioneering approach to disease mapping" }
+          ],
+          "questions": [
+            { "number": 27, "paragraph": "A", "text": "Paragraph A" },
+            { "number": 28, "paragraph": "B", "text": "Paragraph B" },
+            { "number": 29, "paragraph": "C", "text": "Paragraph C" },
+            { "number": 30, "paragraph": "D", "text": "Paragraph D" },
+            { "number": 31, "paragraph": "E", "text": "Paragraph E" },
+            { "number": 32, "paragraph": "F", "text": "Paragraph F" },
+            { "number": 33, "paragraph": "G", "text": "Paragraph G" }
+          ]
+        },
+        {
+          "type": "Matching_Sentence_Endings",
+          "instructions": "Complete each sentence with the correct ending, A–F, from the list below.",
+          "options": [
+            { "label": "A", "text": "by demonstrating how environmental change increases disease risk." },
+            { "label": "B", "text": "by identifying the source of a disease outbreak in 19th-century London." },
+            { "label": "C", "text": "because they are focused on lifestyle-based explanations." },
+            { "label": "D", "text": "because they cannot access healthcare despite being relatively close to it." },
+            { "label": "E", "text": "to the way in which place influences health independently of personal choices." },
+            { "label": "F", "text": "by mapping virus spread and identifying hotspots." }
+          ],
+          "questions": [
+            { "number": 34, "stem": "Health geographers draw attention", "text": "Health geographers draw attention ___" },
+            { "number": 35, "stem": "Researchers contributed to the response to COVID-19", "text": "Researchers contributed to the response to COVID-19 ___" }
+          ]
+        },
+        {
+          "type": "Yes_No_Not_Given",
+          "instructions": "Do the following statements agree with the claims of the writer in the Reading Passage? Write YES if the statement agrees with the claims of the writer, NO if the statement contradicts the claims of the writer, NOT GIVEN if it is impossible to say what the writer thinks about this.",
+          "questions": [
+            { "number": 36, "text": "John Snow can be considered an early practitioner of health geography." },
+            { "number": 37, "text": "GIS technology has made health geography more popular as an academic subject." },
+            { "number": 38, "text": "Health inequalities are caused mainly by people's lifestyle choices." },
+            { "number": 39, "text": "In some parts of the world, geographic factors limit people's ability to receive medical treatment." },
+            { "number": 40, "text": "Climate change may mean that some diseases spread to parts of the world that were previously unaffected." }
+          ]
+        }
+      ]
+    }
+  ],
+  "answer_key": {
+    "1": "FALSE",
+    "2": "FALSE",
+    "3": "FALSE",
+    "4": "NOT GIVEN",
+    "5": "TRUE",
+    "6": "TRUE",
+    "7": "bulbs",
+    "8": "soil",
+    "9": "feathers",
+    "10": "food",
+    "11": "1980",
+    "12": "funding",
+    "13": "transmitters",
+    "14": "C",
+    "15": "G",
+    "16": "B",
+    "17": "E",
+    "18": "C",
+    "19": "B",
+    "20": "A",
+    "21": "B",
+    "22": "C",
+    "23": "A",
+    "24": "oak",
+    "25": "flooring",
+    "26": "keel",
+    "27": "iv",
+    "28": "viii",
+    "29": "ii",
+    "30": "vi",
+    "31": "i",
+    "32": "vii",
+    "33": "iii",
+    "34": "E",
+    "35": "F",
+    "36": "YES",
+    "37": "NOT GIVEN",
+    "38": "NO",
+    "39": "YES",
+    "40": "YES"
+  }
+}

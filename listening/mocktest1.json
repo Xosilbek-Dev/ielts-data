@@ -1,0 +1,268 @@
+{
+  "id": "listening_mocktest1",
+  "title": "Cambridge IELTS 20 — Listening Test 1",
+  "password": "LTEST1",
+  "audio_file": "listening/audio/mocktest1.mp3",
+  "audio_duration_seconds": 2400,
+  "sections": [
+    {
+      "id": "section1",
+      "number": 1,
+      "title": "Section 1",
+      "description": "A conversation between two people about renting a flat.",
+      "question_groups": [
+        {
+          "type": "Form_Completion",
+          "instructions": "Complete the form below. Write ONE WORD AND/OR A NUMBER for each answer.",
+          "title": "Flat Rental Enquiry Form",
+          "form_text": "Name: Harry ___1___\n\nPhone: ___2___\n\nPreferred location: near the ___3___\n\nNumber of bedrooms: ___4___\n\nMaximum monthly rent: £___5___",
+          "questions": [
+            { "number": 1, "text": "Surname" },
+            { "number": 2, "text": "Phone number" },
+            { "number": 3, "text": "Location preference" },
+            { "number": 4, "text": "Bedrooms needed" },
+            { "number": 5, "text": "Maximum rent" }
+          ]
+        },
+        {
+          "type": "Multiple_Choice",
+          "instructions": "Choose the correct letter, A, B or C.",
+          "questions": [
+            {
+              "number": 6,
+              "text": "Harry says he needs a flat that is close to",
+              "options": [
+                { "label": "A", "text": "his workplace" },
+                { "label": "B", "text": "a train station" },
+                { "label": "C", "text": "his children's school" }
+              ]
+            },
+            {
+              "number": 7,
+              "text": "The agent says the deposit is normally",
+              "options": [
+                { "label": "A", "text": "one month's rent" },
+                { "label": "B", "text": "six weeks' rent" },
+                { "label": "C", "text": "two months' rent" }
+              ]
+            },
+            {
+              "number": 8,
+              "text": "Harry is particularly keen on having",
+              "options": [
+                { "label": "A", "text": "a garage" },
+                { "label": "B", "text": "a garden" },
+                { "label": "C", "text": "a balcony" }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "Short_answer_Questions",
+          "instructions": "Answer the questions below. Write NO MORE THAN TWO WORDS AND/OR A NUMBER for each answer.",
+          "questions": [
+            { "number": 9, "text": "What type of heating does Harry want the flat to have?" },
+            { "number": 10, "text": "When does Harry want to move in?" }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "section2",
+      "number": 2,
+      "title": "Section 2",
+      "description": "A talk about local leisure facilities.",
+      "question_groups": [
+        {
+          "type": "Multiple_Choice",
+          "instructions": "Choose the correct letter, A, B or C.",
+          "questions": [
+            {
+              "number": 11,
+              "text": "The leisure centre was built",
+              "options": [
+                { "label": "A", "text": "five years ago" },
+                { "label": "B", "text": "ten years ago" },
+                { "label": "C", "text": "fifteen years ago" }
+              ]
+            },
+            {
+              "number": 12,
+              "text": "Which facility is currently closed for repair?",
+              "options": [
+                { "label": "A", "text": "the swimming pool" },
+                { "label": "B", "text": "the gym" },
+                { "label": "C", "text": "the squash courts" }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "Matching",
+          "instructions": "What does the speaker say about each of the following activities? Choose your answers from the box.",
+          "options": [
+            { "label": "A", "text": "available for members only" },
+            { "label": "B", "text": "recently introduced" },
+            { "label": "C", "text": "suitable for all ages" },
+            { "label": "D", "text": "requires advance booking" },
+            { "label": "E", "text": "free of charge" }
+          ],
+          "questions": [
+            { "number": 13, "text": "yoga classes" },
+            { "number": 14, "text": "swimming lessons" },
+            { "number": 15, "text": "badminton" }
+          ]
+        },
+        {
+          "type": "Plan_Map_Diagram_Labelling",
+          "instructions": "Label the plan below. Write the correct letter, A–E, next to Questions 16–20.",
+          "image": "section2_map.png",
+          "questions": [
+            { "number": 16, "text": "Main entrance", "label_position": "Main entrance" },
+            { "number": 17, "text": "Café", "label_position": "Café" },
+            { "number": 18, "text": "Changing rooms", "label_position": "Changing rooms" },
+            { "number": 19, "text": "First aid room", "label_position": "First aid room" },
+            { "number": 20, "text": "Sports hall", "label_position": "Sports hall" }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "section3",
+      "number": 3,
+      "title": "Section 3",
+      "description": "A conversation between two students about a university assignment.",
+      "question_groups": [
+        {
+          "type": "Multiple_Choice",
+          "instructions": "Choose the correct letter, A, B or C.",
+          "questions": [
+            {
+              "number": 21,
+              "text": "What aspect of their project does Sam find most difficult?",
+              "options": [
+                { "label": "A", "text": "collecting the data" },
+                { "label": "B", "text": "analysing the results" },
+                { "label": "C", "text": "writing the conclusion" }
+              ]
+            },
+            {
+              "number": 22,
+              "text": "They agree that their presentation should focus on",
+              "options": [
+                { "label": "A", "text": "practical recommendations" },
+                { "label": "B", "text": "historical background" },
+                { "label": "C", "text": "statistical evidence" }
+              ]
+            },
+            {
+              "number": 23,
+              "text": "What does Emma say about the feedback they received?",
+              "options": [
+                { "label": "A", "text": "It was largely positive." },
+                { "label": "B", "text": "It was confusing." },
+                { "label": "C", "text": "It was too general." }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "Note_Completion",
+          "instructions": "Complete the notes below. Write ONE WORD ONLY for each answer.",
+          "title": "Research Project Notes",
+          "note_text": "Main finding: ___24___ levels have improved since the scheme began\n\nKey problem identified: lack of ___25___ between departments\n\nRecommended solution: introduce regular ___26___ sessions\n\nDeadline for final report: ___27___",
+          "questions": [
+            { "number": 24, "text": "What has improved" },
+            { "number": 25, "text": "What is lacking" },
+            { "number": 26, "text": "Type of sessions recommended" },
+            { "number": 27, "text": "Report deadline" }
+          ]
+        },
+        {
+          "type": "Matching",
+          "instructions": "What does each student say about the following parts of the project? Choose your answers from the box.",
+          "options": [
+            { "label": "A", "text": "needs to be redone" },
+            { "label": "B", "text": "was completed ahead of schedule" },
+            { "label": "C", "text": "is more difficult than expected" },
+            { "label": "D", "text": "was done by the other student" },
+            { "label": "E", "text": "they are both happy with" }
+          ],
+          "questions": [
+            { "number": 28, "text": "the literature review" },
+            { "number": 29, "text": "the questionnaire" },
+            { "number": 30, "text": "the data analysis" }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "section4",
+      "number": 4,
+      "title": "Section 4",
+      "description": "A lecture about the history of glass-making.",
+      "question_groups": [
+        {
+          "type": "Note_Completion",
+          "instructions": "Complete the notes below. Write ONE WORD AND/OR A NUMBER for each answer.",
+          "title": "History of Glass-Making",
+          "note_text": "Origins:\n• First produced around ___31___ BC in Mesopotamia\n• Early glass was coloured due to ___32___ in the raw materials\n\nRoman period:\n• Romans discovered the ___33___ technique, enabling mass production\n• Glass became available to ___34___ people, not just the wealthy\n\nMedieval Europe:\n• Stained glass used mainly in ___35___ buildings\n• The colour red was the most ___36___ to produce\n\nModern developments:\n• Float glass process invented in ___37___\n• Process involves floating molten glass on a bed of ___38___\n• Result: perfectly ___39___ surface without polishing\n• Now used in ___40___% of all flat glass production worldwide",
+          "questions": [
+            { "number": 31, "text": "When glass was first produced" },
+            { "number": 32, "text": "Cause of early glass colour" },
+            { "number": 33, "text": "Roman technique discovered" },
+            { "number": 34, "text": "Who glass became available to" },
+            { "number": 35, "text": "Type of buildings using stained glass" },
+            { "number": 36, "text": "How red was to produce" },
+            { "number": 37, "text": "Year float glass invented" },
+            { "number": 38, "text": "What glass floats on" },
+            { "number": 39, "text": "Result of float process" },
+            { "number": 40, "text": "Percentage of flat glass production" }
+          ]
+        }
+      ]
+    }
+  ],
+  "answer_key": {
+    "1": "Thompson",
+    "2": "07854 321 456",
+    "3": "park",
+    "4": "2",
+    "5": "900",
+    "6": "A",
+    "7": "B",
+    "8": "B",
+    "9": "central",
+    "10": "March",
+    "11": "B",
+    "12": "C",
+    "13": "B",
+    "14": "C",
+    "15": "D",
+    "16": "C",
+    "17": "A",
+    "18": "E",
+    "19": "B",
+    "20": "D",
+    "21": "B",
+    "22": "A",
+    "23": "C",
+    "24": "productivity",
+    "25": "communication",
+    "26": "training",
+    "27": "Friday",
+    "28": "E",
+    "29": "C",
+    "30": "A",
+    "31": "3500",
+    "32": "impurities",
+    "33": "blowing",
+    "34": "ordinary",
+    "35": "religious",
+    "36": "difficult",
+    "37": "1959",
+    "38": "tin",
+    "39": "flat",
+    "40": "90"
+  }
+}
