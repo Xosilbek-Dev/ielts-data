@@ -1,0 +1,289 @@
+{
+  "id": "listening_mocktest4",
+  "title": "IELTS Listening Practice Test 4",
+  "audio_file": "listening/audio/mocktest4.mp3",
+  "audio_duration_seconds": 1800,
+  "sections": [
+    {
+      "id": "s1",
+      "number": 1,
+      "title": "Section 1",
+      "description": "A woman makes a reservation at a restaurant.",
+      "question_groups": [
+        {
+          "type": "Form_Completion",
+          "instructions": "Complete the table below. Write NO MORE THAN TWO WORDS AND/OR A NUMBER for each answer.",
+          "title": "Delano's Restaurant — Reservation Form",
+          "form_text": "Opening hours:\n• Monday to Thursday – 5:00 to 10:00 pm\n• Friday to Sunday – 5:00 to midnight\n\nFull name for reservation: ___1___\n\nContact phone number: ___2___\n\nReservation details:\n• Date: Friday, February 7\n• Time: 8:00 pm\n• No. of people: 9 adults, plus two ___3___\n\nSpecial event: ___4___\n\nSpecial requirements:\n• Do not serve: ___5___\n• ___6___ seating needed",
+          "questions": [
+            { "number": 1 },
+            { "number": 2 },
+            { "number": 3 },
+            { "number": 4 },
+            { "number": 5 },
+            { "number": 6 }
+          ]
+        },
+        {
+          "type": "Multiple_Choice",
+          "instructions": "Choose TWO letters A–E. Which TWO starters does the woman choose?",
+          "questions": [
+            {
+              "number": 7,
+              "text": "Which TWO starters does the woman choose? (First choice)",
+              "options": [
+                { "label": "A", "text": "White bean salad" },
+                { "label": "B", "text": "Tomato and basil salad" },
+                { "label": "C", "text": "Stuffed mushrooms" },
+                { "label": "D", "text": "Salmon fritters" },
+                { "label": "E", "text": "Bread and pesto" }
+              ]
+            },
+            {
+              "number": 8,
+              "text": "Which TWO starters does the woman choose? (Second choice)",
+              "options": [
+                { "label": "A", "text": "White bean salad" },
+                { "label": "B", "text": "Tomato and basil salad" },
+                { "label": "C", "text": "Stuffed mushrooms" },
+                { "label": "D", "text": "Salmon fritters" },
+                { "label": "E", "text": "Bread and pesto" }
+              ]
+            },
+            {
+              "number": 9,
+              "text": "Which TWO special requests does the woman make? (First request)",
+              "options": [
+                { "label": "A", "text": "Make a cake" },
+                { "label": "B", "text": "Prepare decorations" },
+                { "label": "C", "text": "Sing a song" },
+                { "label": "D", "text": "Play special music" },
+                { "label": "E", "text": "Give a present" }
+              ]
+            },
+            {
+              "number": 10,
+              "text": "Which TWO special requests does the woman make? (Second request)",
+              "options": [
+                { "label": "A", "text": "Make a cake" },
+                { "label": "B", "text": "Prepare decorations" },
+                { "label": "C", "text": "Sing a song" },
+                { "label": "D", "text": "Play special music" },
+                { "label": "E", "text": "Give a present" }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "s2",
+      "number": 2,
+      "title": "Section 2",
+      "description": "A manager gives a workplace induction talk to new employees.",
+      "question_groups": [
+        {
+          "type": "Short_answer_Questions",
+          "instructions": "Answer the questions below. Write NO MORE THAN TWO WORDS for each answer.",
+          "questions": [
+            { "number": 11, "text": "What will the speaker talk about at the end of the presentation?" },
+            { "number": 12, "text": "What will employees get if they don't follow the safety rules?" },
+            { "number": 13, "text": "Where are the incident report forms stored?" },
+            { "number": 14, "text": "Who signs the timesheet for a part-time employee?" }
+          ]
+        },
+        {
+          "type": "Multiple_Choice",
+          "instructions": "Choose the correct letter, A, B or C.",
+          "questions": [
+            {
+              "number": 15,
+              "text": "Which of the following does the speaker NOT talk about as bad behaviour?",
+              "options": [
+                { "label": "A", "text": "Playing around near the machines" },
+                { "label": "B", "text": "Being rude to co-workers" },
+                { "label": "C", "text": "Gossiping about the manager" }
+              ]
+            },
+            {
+              "number": 16,
+              "text": "Office staff need to wear a white company shirt and ...",
+              "options": [
+                { "label": "A", "text": "black jeans" },
+                { "label": "B", "text": "black pants or skirt" },
+                { "label": "C", "text": "trousers with logo" }
+              ]
+            },
+            {
+              "number": 17,
+              "text": "In the workshop, staff must wear gloves …",
+              "options": [
+                { "label": "A", "text": "for certain jobs" },
+                { "label": "B", "text": "in certain areas" },
+                { "label": "C", "text": "at all times" }
+              ]
+            },
+            {
+              "number": 18,
+              "text": "If the fire alarm sounds, staff …",
+              "options": [
+                { "label": "A", "text": "may not take anything with them" },
+                { "label": "B", "text": "may take their keys and phone with them" },
+                { "label": "C", "text": "must exit through the main glass doors" }
+              ]
+            },
+            {
+              "number": 19,
+              "text": "The next fire drill will be held …",
+              "options": [
+                { "label": "A", "text": "in January" },
+                { "label": "B", "text": "in 6 months" },
+                { "label": "C", "text": "in June" }
+              ]
+            },
+            {
+              "number": 20,
+              "text": "The next part of the talk will be about …",
+              "options": [
+                { "label": "A", "text": "how to ask questions at work" },
+                { "label": "B", "text": "how to report a dangerous situation" },
+                { "label": "C", "text": "duties for Reception staff" }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "s3",
+      "number": 3,
+      "title": "Section 3",
+      "description": "Two students discuss staff responsibilities and semester schedule at their language school.",
+      "question_groups": [
+        {
+          "type": "Matching",
+          "instructions": "Match the responsibility to the person. Write the correct letter, A–G, next to each person.",
+          "options": [
+            { "label": "A", "text": "keeps past test data" },
+            { "label": "B", "text": "helps with test design" },
+            { "label": "C", "text": "keeps attendance records" },
+            { "label": "D", "text": "has information for new students" },
+            { "label": "E", "text": "helps with textbooks and equipment" },
+            { "label": "F", "text": "notes any changes to the syllabus" },
+            { "label": "G", "text": "organises students into classes" }
+          ],
+          "questions": [
+            { "number": 21, "text": "Maureen" },
+            { "number": 22, "text": "Paul" },
+            { "number": 23, "text": "Jason" },
+            { "number": 24, "text": "Kelly" }
+          ]
+        },
+        {
+          "type": "Note_Completion",
+          "instructions": "Complete the Semester Schedule below. Write NO MORE THAN TWO WORDS for each answer.",
+          "title": "Semester Schedule",
+          "note_text": "Week 1 — Monday: Give students the ___25___\n\nWeek 4 — short personal ___26___\n\nWeek 6 — First ___27___ due\n\nWeek 12 — Thursday: Exam\n            Friday: ___28___\n\nWeek 13 — Teachers mark assessments in the ___29___\n\nWeek 14 — Students get their ___30___",
+          "questions": [
+            { "number": 25 },
+            { "number": 26 },
+            { "number": 27 },
+            { "number": 28 },
+            { "number": 29 },
+            { "number": 30 }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "s4",
+      "number": 4,
+      "title": "Section 4",
+      "description": "A lecture about driverless (autonomous) car technology.",
+      "question_groups": [
+        {
+          "type": "Table_Completion",
+          "instructions": "Fill in the table below. Write NO MORE THAN TWO WORDS for each answer.",
+          "title": "Driverless Car Levels",
+          "table_text": "Level 0 — Driver only:\nDriver controls the pedals and ___31___\nAlready incorporate a lot of software\n\nLevel 1 — Assisted:\nHelp with parking, electronic ___32___\n\nLevel 2 — Partial Automation:\nCan stay in one lane and at a steady distance from the car in front\nNeed careful driver monitoring\n\nLevel 3 — ___33___ Automation:\nWill usually not need driver input; car may sometimes request help from the driver\n\nLevel 4 — High Automation:\nWill only be able to operate in ___34___\n\nLevel 5 — Full Automation:\nNo driver needed, no pedals or steering wheel",
+          "questions": [
+            { "number": 31 },
+            { "number": 32 },
+            { "number": 33 },
+            { "number": 34 }
+          ]
+        },
+        {
+          "type": "Multiple_Choice",
+          "instructions": "Choose the correct letter, A, B or C.",
+          "questions": [
+            {
+              "number": 35,
+              "text": "Which option is NOT stated to be a problem for existing robot car models?",
+              "options": [
+                { "label": "A", "text": "Operating without a detailed map" },
+                { "label": "B", "text": "Dealing with unknown changes en route" },
+                { "label": "C", "text": "Driving in very hot conditions" }
+              ]
+            },
+            {
+              "number": 36,
+              "text": "Which of the following is NOT true?",
+              "options": [
+                { "label": "A", "text": "In 2012, US and UK people liked autonomous cars more than Germans did" },
+                { "label": "B", "text": "In 2015, more Germans liked than didn't like autonomous cars" },
+                { "label": "C", "text": "In 2015, about a third of the people surveyed liked autonomous cars" }
+              ]
+            },
+            {
+              "number": 37,
+              "text": "What percentage of car crashes happen because of driver error?",
+              "options": [
+                { "label": "A", "text": "90%" },
+                { "label": "B", "text": "33%" },
+                { "label": "C", "text": "99%" }
+              ]
+            },
+            {
+              "number": 38,
+              "text": "What will the main problem be for driverless cars in the transition period?",
+              "options": [
+                { "label": "A", "text": "Driving on high-speed motorways" },
+                { "label": "B", "text": "Not hitting driver-controlled cars" },
+                { "label": "C", "text": "Deciding what to do in a crash situation" }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "Multiple_Choice",
+          "instructions": "Choose TWO letters, A–E. Which of the following are advantages of driverless cars?",
+          "questions": [
+            {
+              "number": 39,
+              "text": "Which of the following are advantages of driverless cars? (First advantage)",
+              "options": [
+                { "label": "A", "text": "reduce traffic jams" },
+                { "label": "B", "text": "decrease driving speeds" },
+                { "label": "C", "text": "improve road quality" },
+                { "label": "D", "text": "make journeys quicker" },
+                { "label": "E", "text": "use smaller vehicles" }
+              ]
+            },
+            {
+              "number": 40,
+              "text": "Which of the following are advantages of driverless cars? (Second advantage)",
+              "options": [
+                { "label": "A", "text": "reduce traffic jams" },
+                { "label": "B", "text": "decrease driving speeds" },
+                { "label": "C", "text": "improve road quality" },
+                { "label": "D", "text": "make journeys quicker" },
+                { "label": "E", "text": "use smaller vehicles" }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
